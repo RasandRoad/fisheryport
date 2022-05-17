@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fisheryport/static/css/main.c570c0c2.chunk.css",
-    "main.js": "/fisheryport/static/js/main.0af6b121.chunk.js",
-    "main.js.map": "/fisheryport/static/js/main.0af6b121.chunk.js.map",
+    "main.js": "/fisheryport/static/js/main.ef69304d.chunk.js",
+    "main.js.map": "/fisheryport/static/js/main.ef69304d.chunk.js.map",
     "runtime-main.js": "/fisheryport/static/js/runtime-main.7abf7c4b.js",
     "runtime-main.js.map": "/fisheryport/static/js/runtime-main.7abf7c4b.js.map",
     "static/js/2.bf03459a.chunk.js": "/fisheryport/static/js/2.bf03459a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7abf7c4b.js",
     "static/js/2.bf03459a.chunk.js",
     "static/css/main.c570c0c2.chunk.css",
-    "static/js/main.0af6b121.chunk.js"
+    "static/js/main.ef69304d.chunk.js"
   ]
 }
