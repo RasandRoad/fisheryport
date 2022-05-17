@@ -36,7 +36,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://geoloniamaps.github.io/pwamap/",
+  "homepage": "https://RasandRoad.github.io/fisheryport/",
   "eslintConfig": {
     "extends": "react-app"
   },
